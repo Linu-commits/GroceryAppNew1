@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-02T23:06:16 IST" name="Default suite" finished-at="2023-10-02T23:06:20 IST" duration-ms="4897">
+    <groups>
+    </groups>
+    <test started-at="2023-10-02T23:06:16 IST" name="Default test" finished-at="2023-10-02T23:06:20 IST" duration-ms="4897">
+      <class name="com.obsqura.tests.SearchProductTest">
+        <test-method is-config="true" signature="InitializeDriver()[pri:0, instance:com.obsqura.tests.SearchProductTest@515c6049]" started-at="2023-10-02T23:06:16 IST" name="InitializeDriver" finished-at="2023-10-02T23:06:19 IST" duration-ms="3327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeDriver -->
+        <test-method signature="MySearchProductTest()[pri:0, instance:com.obsqura.tests.SearchProductTest@515c6049]" started-at="2023-10-02T23:06:19 IST" name="MySearchProductTest" finished-at="2023-10-02T23:06:20 IST" duration-ms="1367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySearchProductTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.obsqura.tests.SearchProductTest@515c6049]" started-at="2023-10-02T23:06:20 IST" name="TearDown" finished-at="2023-10-02T23:06:20 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.obsqura.tests.SearchProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
